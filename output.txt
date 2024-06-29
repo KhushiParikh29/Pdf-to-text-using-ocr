@@ -1,0 +1,64 @@
+Number of pages: 1
+Metadata: {'format': 'PDF 1.5', 'title': 'CV-Khushi Parikh.docx', 'author': 'Galaxy', 'subject': '', 'keywords': '', 'creator': 'Microsoft® Word 2010', 'producer': 'Microsoft® Word 2010', 'creationDate': "D:20240628210620+05'30'", 'modDate': "D:20240628210620+05'30'", 'trapped': '', 'encryption': None}
+Text from page 0:
+ 
+ 
+Summary 
+Pursuing a degree in computer engineering with a focus on IT operations and strong programming 
+abilities. A committed and motivated learner who can handle the assignments. Owning strong analytical 
+and communication abilities. Always interested in leadership and management. 
+ 
+Education 
+Bachelor of Engineering: Computer Engineering (2021-2025), Result: 8.61CPI(till date) and 7.83CGPA 
+Government Engineering College, Modasa 
+Gujarat Technological University, Ahmedabad, Gujarat, India 
+ 
+Technical Skills 
+● Database Management 
+● Web 
+Programming(HTML,CSS,Javascript,PHP) 
+● Operating Systems 
+● Developer Tools: VS Code, Github, Eclipse, 
+Google Colab 
+ 
+ 
+● Data Structures 
+● Object Oriented Programming 
+● C/Python 
+ 
+Project Work 
+Online Waste Management System(Under Progress) 
+PHP/MySQL Web Application- A web-based platform to minimize food waste in a hostel mess by enabling 
+students to indicate their meal attendance in advance, allowing cooks to prepare food in precise 
+quantities. 
+Attendance Management System(2023) 
+Java/MySQL Web Application- A web based platform for attendance management of an academic 
+institutions. It automates the attendance of students and provide 360 degree analytics of attendance for 
+faculties. 
+ 
+Participation 
+Smart India Hakathon-2023 
+Developed and Demonstrated project entitled “Transforming Indian Agriculture: A Holistic Solution for 
+Enhanced Productivity, Sustainability and Security”, An IoT based solution to boost productivity and 
+sustainability agriculture operations. Intelligent assistance, Real time SMS notification and alert to farmers. 
+ 
+Contribution 
+Core team Member- Google Developer Student Clubs(GDSC) 
+Contributing as a core team member in GDSC to conduct various technical events/sessions and 
+workshops for the students and connecting them to this collaborative learning environment. 
+ 
+Event Coordinator- Sudo2k24_ A technical symposium 
+Coordinated entire tech symposium organized by my institute which includes fourteen technical and  
+non-technical events. More than 400 students participated in this event. 
+ 
+Additional Activities(Certifications) 
+2 months internship in Programming in python from Yhills Edutech(E-Cell IIT Hyderabad) 
+Spoken Tutorial, IIT Bombay  
+KHUSHI PARIKH 
+#MODASA-GUJARAT-INDIA 
+#     +91-9499569471     # KHUSHISPARIKH2911@GMAIL.COM 
+ 
+# LINKEDIN.COM/IN/KHUSHI-PARIKH-4984AA237 
+
+Links on page 0: [{'kind': 2, 'xref': 27, 'from': Rect(341.9800109863281, 55.78997802734375, 450.3900146484375, 76.19000244140625), 'uri': 'mailto:KHUSHISPARIKH2911@GMAIL.COM', 'id': ''}]
+Links on page 0: [{'kind': 2, 'xref': 27, 'from': Rect(341.9800109863281, 55.78997802734375, 450.3900146484375, 76.19000244140625), 'uri': 'mailto:KHUSHISPARIKH2911@GMAIL.COM', 'id': ''}]
